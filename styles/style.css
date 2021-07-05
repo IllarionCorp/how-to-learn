@@ -62,7 +62,6 @@
 }
 
 .header__main-illustration {
-  width: 765px;
   position: absolute;
   bottom: 0;
   right: 0;
@@ -240,7 +239,6 @@
   line-height: 1.15;
   font-size: 120px;
   font-weight: bold;
-  display: flex;
   margin-top: 100px;
   text-align: center;
   margin-bottom: 70px;
