@@ -283,6 +283,7 @@
   line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
+  z-index: 2;
 }
 
 .section-subtitle_theme_dark {
@@ -294,6 +295,7 @@
   width: 60%;
   justify-content: center;
   font-weight: normal;
+  z-index: 2;
 }
 
 .table_theme_dark {
@@ -382,6 +384,9 @@
   margin-bottom: 18px;
   left: 0;
   bottom: 0;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
 }
 
 .footer__column_content_info {
