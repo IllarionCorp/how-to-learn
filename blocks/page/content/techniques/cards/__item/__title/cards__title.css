@@ -1,0 +1,5 @@
+.cards__title {
+  display: flex;
+  margin: 0;
+  margin-bottom: 16px;
+}
