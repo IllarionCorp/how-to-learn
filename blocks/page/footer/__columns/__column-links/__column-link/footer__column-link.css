@@ -6,3 +6,9 @@
   font-weight: normal;
   text-decoration: none;
 }
+
+.footer__column-link:hover {
+  opacity: .5;
+  transition: .3s;
+}
+
